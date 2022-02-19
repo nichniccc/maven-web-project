@@ -13,7 +13,7 @@ Enter your name: <input type="text" name="yourName" size="20">
 <input type="submit" value="Submit" />
 </form>
 
- <button onclick="window.location.href='http://localhost:8091/lesson14/register.jsp';"> Click to go to user registration </button>
+ <button onclick="window.location.href='http://localhost:8091/maven-web-project/register.jsp';"> Click to go to user registration </button>
 
 </body>
 </html>
